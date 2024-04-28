@@ -1,0 +1,70 @@
+*{
+    background-color: white;
+}
+#logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 2%;
+}
+div{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;  
+}
+h2{
+    padding: 20px;
+    color: black;  
+}
+a{
+    text-decoration: none;
+}
+li{
+list-style: none;
+}
+#basic{
+    padding: 2%;
+    font-family: cursive;
+}
+#Medium{
+    padding: 2%;
+    font-family: cursive;
+}
+#premiun{
+    padding: 2%;
+    font-family: cursive;
+}
+.titulos{
+   font-family: fantasy;
+   font-size: 30px;
+}
+table{
+    background-color: lightblue;
+}
+.social{
+    width: 50px;
+    height: 50px;
+    padding-left: 110px;
+    padding-right: 30px;
+}
+#section2{
+    display: flex;
+}
+#primera{
+    padding-left: 20px;
+}
+#segunda{
+    padding-left: 20px;
+}
+#tercera{
+    padding-left: 20px;
+}
+#cuarta{
+    padding-left: 20px;
+}
+p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 10p;
+    padding-left: 20px;
+}

@@ -1,0 +1,44 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: cadetblue;
+    margin: 0;
+    padding: 0;
+  }
+  .contenedor{
+      max-width: 650px;
+      margin: 50px auto;
+      padding: 30px;
+      padding-right: 50px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  }
+  h1{
+      text-align: center;
+      color: #333;
+  }
+  .campo{
+      margin-bottom: 20px;
+  }
+  input[type="tex"],
+  input[type="email"],
+  textarea{
+      width: 100%;
+      padding: 10px;
+      border: 1px double;
+      border-radius: 5px;
+  }
+  .boton{
+      text-align: center;
+  }
+  button{
+      padding: 10px 2opx;
+      background-color: #007bff;
+      color: #fff;
+      border-radius: 5px;
+      border: 0px;
+  }
+  button:hover{
+     background-color:#0056b3; 
+  }
+  
